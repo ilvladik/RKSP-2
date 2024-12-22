@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\dotnet\\MicroservicesSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69D8BDA5-A80E-4D05-9602-87F7E0E45F02}|tests\\NoteService.Tests\\NoteService.Tests.csproj|d:\\projects\\dotnet\\microservicessolution\\tests\\noteservice.tests\\notecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D8BDA5-A80E-4D05-9602-87F7E0E45F02}|tests\\NoteService.Tests\\NoteService.Tests.csproj|solutionrelative:tests\\noteservice.tests\\notecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2407CF-EA82-4E3A-ABC7-DD0E3682DDC6}|src\\NoteService\\NoteService.csproj|d:\\projects\\dotnet\\microservicessolution\\src\\noteservice\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2407CF-EA82-4E3A-ABC7-DD0E3682DDC6}|src\\NoteService\\NoteService.csproj|solutionrelative:src\\noteservice\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2407CF-EA82-4E3A-ABC7-DD0E3682DDC6}|src\\NoteService\\NoteService.csproj|d:\\projects\\dotnet\\microservicessolution\\src\\noteservice\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2407CF-EA82-4E3A-ABC7-DD0E3682DDC6}|src\\NoteService\\NoteService.csproj|solutionrelative:src\\noteservice\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\Projects\\dotnet\\MicroservicesSolution\\src\\NoteService\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "src\\NoteService\\Models\\Note.cs",
+              "ToolTip": "D:\\Projects\\dotnet\\MicroservicesSolution\\src\\NoteService\\Models\\Note.cs",
+              "RelativeToolTip": "src\\NoteService\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:05:16.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "D:\\Projects\\dotnet\\MicroservicesSolution\\src\\NoteService\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "src\\NoteService\\Controllers\\NoteController.cs",
+              "ToolTip": "D:\\Projects\\dotnet\\MicroservicesSolution\\src\\NoteService\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "src\\NoteService\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:04:37.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteControllerTest.cs",
+              "DocumentMoniker": "D:\\Projects\\dotnet\\MicroservicesSolution\\tests\\NoteService.Tests\\NoteControllerTest.cs",
+              "RelativeDocumentMoniker": "tests\\NoteService.Tests\\NoteControllerTest.cs",
+              "ToolTip": "D:\\Projects\\dotnet\\MicroservicesSolution\\tests\\NoteService.Tests\\NoteControllerTest.cs*",
+              "RelativeToolTip": "tests\\NoteService.Tests\\NoteControllerTest.cs*",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv6MAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:03:59.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

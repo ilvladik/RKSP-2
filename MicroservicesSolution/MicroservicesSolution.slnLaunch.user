@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\Authentication\\Authentication.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\LoggerService\\LoggerService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\NoteService\\NoteService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\GreetingService\\GreetingService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ApiGatewayService\\ApiGatewayService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

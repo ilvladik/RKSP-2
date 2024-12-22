@@ -1,0 +1,125 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "beforeAll",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "beforeEach",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testGetFunctions",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testOwnership",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testPayment",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testSuccessfulWithdraw",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {
+				"testGetFunctions()": {
+					"notice": "Test get functions"
+				},
+				"testOwnership()": {
+					"notice": "Test contract ownership"
+				},
+				"testPayment()": {
+					"notice": "#value: 1000000000000000000 Test payment functionality"
+				},
+				"testSuccessfulWithdraw()": {
+					"notice": "#value: 1000000000000000000 Test successful withdrawal"
+				}
+			},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tests/SimpleContract_test.sol": "SimpleContractTest"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SimpleContract.sol": {
+			"keccak256": "0x049627fba3f663e0866ada1d642a06759ba25ce33c4bc024d8c8c3961a12c0ea",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a53044fb8101c3e6e3884baa3a43cd418599c8b0f9b860bd9fb2facc6540c391",
+				"dweb:/ipfs/QmUacCqRkdq1X1nW6bTjTJW82sfq9nLzuZQKhXa7rZjTKx"
+			]
+		},
+		"remix_accounts.sol": {
+			"keccak256": "0xab088ffd1cd1033f54c2486f151b5d02281a3b76724c8e6f48479c25a4f7809e",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://5ddaf9976b1838f7028cbedfaf7f6e1cf8c898e100221176ff1406ee8b599f23",
+				"dweb:/ipfs/QmX2FYLXYyo5Cn55ZX2CfngpscSh4mQhcMVzQdQsh2vqcG"
+			]
+		},
+		"remix_tests.sol": {
+			"keccak256": "0xe2783cdc204cba8c72494119339f1d90f9022b15d6c718c668b7f097d8e29787",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://bb6a22e64c7f16bcaab63b1c1a1b269d5be8a6d37bdd9dec1718477ab916b18e",
+				"dweb:/ipfs/QmdkW1tT5iadBvaHMCoskhDGZKnfdg8o1D9CcoQYtdJet7"
+			]
+		},
+		"tests/SimpleContract_test.sol": {
+			"keccak256": "0x904eac04951fd67b3e17323f586e760470001d9209899a7ea7722c3cb88c2ba7",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://38d78afd09f4d33a27ae4792508fabc2ca08af85faa661aedf494f779ed9e008",
+				"dweb:/ipfs/QmS5C96W5gXC3suE1KJk2qMUYj9n3WjdaiTrmoiBpTjBtR"
+			]
+		}
+	},
+	"version": 1
+}
